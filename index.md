@@ -32,8 +32,6 @@ Selling/Buying: XXX XP Points
 
 Price: $ per point
 
-Quantity: Number of points
-
 ### Deposit Collateral
 
 Buyer deposits payment to the admin’s collateral wallet.
