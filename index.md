@@ -9,7 +9,7 @@ Our Paradex XP OTC Telegram community is a secure and manual Over-The-Counter tr
 🔐 Simple Escrow via Admin Wallets
 We use two separate wallets controlled by the admin:
 - Fee Wallet: collects trading fees.
-- Collateral Wallet: holds the funds and XP points until the airdrop conversion.
+- Collateral Wallet: holds the funds until the airdrop conversion.
 
 This manual setup ensures prompt and reliable transactions without the complexity of multisignature wallets.
 
@@ -26,7 +26,7 @@ For example, if you trade $1,000 worth of XP points, each party pays $15 in fees
 
 ### Initiate Trade
 
-Participants contact the admin via Telegram @mnrbgn with trade details in this format:
+Participants contact the admin via Telegram [@mnrbgn](https://t.me/mnrbgn) with trade details in this format:
 
 Selling/Buying: XXX XP Points
 
@@ -36,7 +36,7 @@ Price: $ per point
 
 Buyer deposits payment to the admin’s collateral wallet.
 
-Seller deposits XP payment to the admin’s collateral wallet.
+Seller deposits payment to the admin’s collateral wallet.
 
 Both deposit 100% collateral to ensure security.
 
