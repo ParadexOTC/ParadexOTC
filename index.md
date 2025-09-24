@@ -93,6 +93,6 @@ Token Transfer: Verify correct wallets and networks before depositing collateral
 
 The admin is not liable for losses due to user error or unsupported transfers.
 
-#
+---
 
 This whitepaper will be updated regularly to improve and add new features.
